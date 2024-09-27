@@ -285,4 +285,5 @@ margin: 0px 120px 0px  50px;
   margin-right: 20px;
 }
 
+/* For MacBook */
 @media screen and (min width: 1024px);
